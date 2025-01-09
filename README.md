@@ -66,7 +66,7 @@ Feel free to reach out!
 ### "Data will show you the way." 
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your_LinkedIn_URL](https://www.linkedin.com/in/vesko-vujovic-3787005b/))
-[![Blog](https://img.shields.io/badge/Read_My_Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](Your_Blog_URL)
+[![Blog](https://img.shields.io/badge/Read_My_Blog-12100E?style=for-the-badge&logo=substack&logoColor=white)](Your_Blog_URL)
 
 </div>
 
