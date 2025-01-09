@@ -1,69 +1,80 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<p align="center">
-<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
-<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
-<a href="https://hashnode.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="apoorvtyagi" height="20" width="20" /></a>
-<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
-</p>
+<div align="center">
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+# 👋 Hello Data Enthusiasts!
 
-### 🤵 About Me:
-- 🏦 I'm currently working for a healthcare based startup where i make financial applications using spring boot and mysql 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily ```.java```,``` .py```, ```.sql```
-- 🌱 I’m currently learning docker and kubernetes
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals) and silicon valley
-- 😄 Pronouns: He/Him
-- 📝 I regulary write articles on [hashnode](https://apoorvtyagi.tech/) (previously on [blogger](https://apoorvtyagi133.blogspot.com/))
-- 👯 We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games
-- ⚡ Fun fact: Je connais un peu le français
+</div>
 
-<p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="IPYNB" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="MAVEN" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="HEROKU" width="35" height="35"/> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-</p>
+## The Story Behind the Code 📖
 
----
-### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+I'm **Vesko Vujović**, a data engineer who believes that every dataset tells a story waiting to be discovered. For over a decade, I've been on an exciting journey of transforming raw data into meaningful insights that shape business decisions.
 
+> "My passion is data and everything related to data."
 
+### Why Data? 🤔
 
-<!--END_SECTION:waka-->
+Imagine being a detective who solves puzzles using digital clues - that's what I do every day! My fascination with data started when I realized its power to transform businesses and impact lives. Like a master craftsman, I've spent years honing my skills in building data pipelines, each one more elegant and efficient than the last.
 
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-11-2020.
+### My Data Journey 🌟
 
----
+Picture this: A computer science graduate with stars in his eyes, diving deep into the world of distributed systems and machine learning. Over the years, I've:
+
+- Architected data pipelines that process billions of records daily
+- Built ML models that turned raw data into actionable insights
+- Led teams that transformed complex data challenges into elegant solutions
+- Shared my knowledge with aspiring data engineers, watching them grow and succeed
+
+### What Makes Me Tick ⚡
+
+I'm not just a data engineer; I'm a:
+- **Problem Solver** who loves tackling complex data challenges
+- **Storyteller** who can translate technical concepts for non-technical stakeholders
+- **Mentor** passionate about growing the next generation of data engineers
+- **Perpetual Learner** always exploring new technologies and approaches
+- **Technical Leader with a Human Touch** - My 15-year journey with psychology wasn't by chance. It began with a fascination for the human mind and evolved into a powerful tool for understanding and leading engineering teams. Understanding people and their needs helps me see beyond the code to the humans writing it.
+- **Business-Minded Engineer** - I'm that rare breed of technical person who thinks product-first and business-centric. While others might see lines of code, I see business opportunities and product features waiting to be born. This unique perspective helps me bridge the gap between technical possibilities and business realities.
+- **People-First Leader** - By blending my technical expertise with psychological insights, I create environments where engineers don't just code – they thrive. I understand that every team member has unique needs, motivations, and potential waiting to be unlocked.
+- **Psychology Enthusiast** - My ongoing fascination with behavioral psychology isn't just a hobby – it's a **The Sixth Sense** in tech leadership. It helps me build stronger teams, foster better communication, and create more human-centric technical solutions.
+- **Detail Appreciator** - I believe excellence lies in the details. This mindfulness isn't about perfectionism – it's about understanding that thoughtful attention to small things compounds into extraordinary results. Whether in system architecture, code quality, or team dynamics, I've learned that paying attention to subtle nuances often leads to the most elegant solutions and strongest outcomes. 
+
+I believe great technical solutions come from understanding not just the data and systems, but the people who build and use them. This combination of technical expertise, business acumen, psychological insight, and thoughtful attention to detail enables me to create solutions that elegantly serve both machines and humans.
+
+### Beyond the Code 🌍
+
+When I'm not crafting data pipelines or optimizing queries, you'll find me:
+- Writing about my data adventures and discoveries
+- Speaking at conferences about the future of data engineering
+- Mentoring aspiring data enthusiasts
+- Exploring new technologies and approaches to data problems
 
 ### 📕 My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Having a go at common NLP tasks using TextBlob](https://apoorvtyagi.tech/nlp-textblob)
-- [Tail recursion in python 🐍](https://apoorvtyagi.tech/tail-recursion-in-python)
-- [scp command in Linux 💻](https://apoorvtyagi.tech/scp-command-in-linux)
-- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
-<!-- BLOG-POST-LIST:END -->
+- [Speed Up Your Spark Jobs: The Hidden Trap in Union Operations] (https://blog.veskovujovic.me/posts/spark-union-performance-killer/)
+- [AWS Lambda Event Source Mapping: The Magic Behind Kafka Offset Management](https://blog.veskovujovic.me/posts/offset-management-esm/)
+- [DuckDB Inside Postgres: The Unlikely Duo Supercharging Analytics](https://blog.veskovujovic.me/posts/duckdb-in-postgres/)
+
+### Let's Talk Data! 💬
+
+I believe the best solutions come from collaboration and shared knowledge. Whether you're:
+- A fellow data enthusiast looking to chat about the latest in data engineering
+- A business leader seeking to understand the power of data
+- An aspiring data engineer looking for guidance
+- Someone who just loves data as much as I do
+
+Feel free to reach out!
+
+<div align="center">
+
+### "Data will show you the way." 
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your_LinkedIn_URL)
+[![Blog](https://img.shields.io/badge/Read_My_Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](Your_Blog_URL)
+
+</div>
+
 ---
 
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<div align="center">
 
-----
-Credit: [Apoorv Tyagi](https://github.com/ApoorvTyagi)
+*“It is a capital mistake to theorize before one has data.”
+~ Sherlock Holmes in “A study in Scarlet” by Arthur Conan Doyle* 🚀
 
-Last Edited on: 26/11/2020
+</div>
