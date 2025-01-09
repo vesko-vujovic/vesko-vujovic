@@ -47,7 +47,7 @@ When I'm not crafting data pipelines or optimizing queries, you'll find me:
 - Exploring new technologies and approaches to data problems
 
 ### 📕 My Latest Blog posts:
-- [Speed Up Your Spark Jobs: The Hidden Trap in Union Operations] (https://blog.veskovujovic.me/posts/spark-union-performance-killer/)
+- [Speed Up Your Spark Jobs: The Hidden Trap in Union Operations](https://blog.veskovujovic.me/posts/spark-union-performance-killer/)
 - [AWS Lambda Event Source Mapping: The Magic Behind Kafka Offset Management](https://blog.veskovujovic.me/posts/offset-management-esm/)
 - [DuckDB Inside Postgres: The Unlikely Duo Supercharging Analytics](https://blog.veskovujovic.me/posts/duckdb-in-postgres/)
 
