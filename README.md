@@ -65,7 +65,7 @@ Feel free to reach out!
 
 ### "Data will show you the way." 
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your_LinkedIn_URL](https://www.linkedin.com/in/vesko-vujovic-3787005b/))
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your_LinkedIn_URL](https://www.linkedin.com/in/vesko-vujovic-3787005b/)
 [![Substack Blog](https://img.shields.io/badge/Read_My_Blog-12100E?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@veskovujovic)
 
 </div>
@@ -75,6 +75,6 @@ Feel free to reach out!
 <div align="center">
 
 *“It is a capital mistake to theorize before one has data.”
-~ Sherlock Holmes in “A study in Scarlet” by Arthur Conan Doyle* 🚀
+~ Sherlock Holmes in “A Study in Scarlet” by Arthur Conan Doyle* 🚀
 
 </div>
