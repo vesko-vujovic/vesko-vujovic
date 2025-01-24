@@ -39,10 +39,9 @@ I believe great technical solutions come from understanding not just the data an
 ### Beyond the Code 🌍
 
 When I'm not crafting data pipelines or optimizing queries, you'll find me:
-- Writing about my data adventures and discoveries
-- Speaking at conferences about the future of data engineering
-- Mentoring aspiring data enthusiasts
-- Exploring new technologies and approaches to data problems
+- I'm in the mountains with my dog Lea 🐕. It's an American Akita
+- I'm cooking many things, and I make first-class Napoletan-style pizza 🍕🍕🍕
+- Listening to my vinyls or playing guitar 🎸🎸🎸
 
 ### 📕 My Latest Blog posts:
 - [Speed Up Your Spark Jobs: The Hidden Trap in Union Operations](https://blog.veskovujovic.me/posts/spark-union-performance-killer/)
@@ -55,7 +54,7 @@ I believe the best solutions come from collaboration and shared knowledge. Wheth
 - A fellow data enthusiast looking to chat about the latest in data engineering
 - A business leader seeking to understand the power of data
 - An aspiring data engineer looking for guidance
-- Someone who just loves data as much as I do
+- Someone who loves data as much as I do
 
 Feel free to reach out!
 
