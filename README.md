@@ -42,6 +42,7 @@ When I'm not crafting data pipelines or optimizing queries, you'll find me:
 - I'm in the mountains with my dog Lea 🐕. It's an American Akita
 - I'm cooking many things, and I make first-class Napoletan-style pizza 🍕🍕🍕
 - Listening to my vinyls or playing guitar 🎸🎸🎸
+- Learning random stuff 📖📖📖
 
 ### 📕 My Latest Blog posts:
 - [Speed Up Your Spark Jobs: The Hidden Trap in Union Operations](https://blog.veskovujovic.me/posts/spark-union-performance-killer/)
